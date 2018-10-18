@@ -70,10 +70,11 @@
 
 规范名称 | Cook
 --------|------|
-当前版本 | v1.0 beta
-规范发起 | [杜瑶(@doyoe)](http://weibo.com/doyoe)
-参与人群 | Qunar FED
-最后更新 | 2015.03.20
+当前版本 | v1.1 beta
+规范 | [Lightman](https://jiangren.com.au)
+参与人群 | JR Academy
+Company | [JR Academy](https://jiangren.com.au)
+最后更新 | 2018.10.18
 
 <a name="general"></a>
 ## 通用约定
