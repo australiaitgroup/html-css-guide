@@ -308,6 +308,7 @@ Company | [JR Academy](https://jiangren.com.au)
 不允许：
 
 	<a href=http://www.qunar.com class=home>去哪儿网</a>
+	<a href='http://www.qunar.com' class="home">去哪儿网</a>
 
 应该：
 
