@@ -1067,5 +1067,5 @@ body {
 
 统一的代码风格，团队内部阅读或编辑代码，将会变得非常轻松，因为所有组员都处在一致思维环境中。
 
-* [澳洲IT](https:jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
-
+* [澳洲找工作, 澳洲IT](https://jiangren.com.au/) — 匠人学院，找工作，实习，工作内推，全栈班，DevOps学习
+* [Web全栈班](https://jiangren.com.au/program-course/web-code-bootcamp-or-learn-to-code-1) — Web开发全栈项目班
